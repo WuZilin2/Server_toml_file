@@ -1,0 +1,4 @@
+#Sun Apr 05 13:31:53 GMT+08:00 2026
+shadowDistance=384.0
+shadowMapResolution=4096
+SHADOW_ENTITY=1

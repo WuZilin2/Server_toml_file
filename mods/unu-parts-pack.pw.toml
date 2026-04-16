@@ -1,0 +1,13 @@
+name = "UNU Parts Pack [MTS/IV]"
+filename = "UNU Parts Pack [MTS] 1.20.1-22.18.0-6.7.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qqbbPaeB/versions/i1Hf4saR/UNU%20Parts%20Pack%20%5BMTS%5D%201.20.1-22.18.0-6.7.3.jar"
+hash-format = "sha512"
+hash = "cad21c9f229c36420ac1a2f7242186cde23fd92985e4e701eb23718f5b072837cf2368d5c87b17ad9c0b2083a88ed43843dd7958cfa244ed69b6714d610c50c4"
+
+[update]
+[update.modrinth]
+mod-id = "qqbbPaeB"
+version = "i1Hf4saR"

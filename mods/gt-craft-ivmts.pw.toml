@@ -1,0 +1,13 @@
+name = "GT CRAFT [IV/MTS]"
+filename = "gtcraft-2.0.1(1.20.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n1cr3YKZ/versions/2VvUWJqU/gtcraft-2.0.1%281.20.1%29.jar"
+hash-format = "sha512"
+hash = "281d305a155de6e1cac1bcab70f8b5a94541fdf3f00e3ae02e943e7be104dfccc89f0d0df5ff6b9259bb535aa4628b795d91b1164a21ba356f04a55959cc3317"
+
+[update]
+[update.modrinth]
+mod-id = "n1cr3YKZ"
+version = "2VvUWJqU"
