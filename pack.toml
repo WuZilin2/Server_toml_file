@@ -1,0 +1,13 @@
+name = "ModPack"
+author = "WuZilin_MC"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e07cfc1dd7088638b7acb56c2a0d32c69f042daf9112e7e4242b00cb7c8a78f9"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

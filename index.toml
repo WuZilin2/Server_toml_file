@@ -1,0 +1,295 @@
+hash-format = "sha256"
+
+[[files]]
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "eb2741c8e015ef73883b17fec859c1166d14d13da973925b97f797cfca848e29"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "e0b0d4ffb66d813a4e6da0910d8e050bbfd8e16731dacb78fc5478029932c473"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
+metafile = true
+
+[[files]]
+file = "mods/bocchud.pw.toml"
+hash = "8a8d5173c74824a1ae312d7a22e3fc6a5a3312e48f034f2be83ee345e749eda3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "e6d1f36e9e0193fe410d136e0cda8a7f6dbbc809c0644f06a601bddf5b38a395"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "60859c18e6500a2e9a695517e3bf1a9c402d2e18396797af4bd5ef08c601e86f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1dfac146a84e16f89ae17bcc8e9ee745040f8310dfc9c9b896c7ad372cdd82ca"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
+metafile = true
+
+[[files]]
+file = "mods/gt-craft-ivmts.pw.toml"
+hash = "b28e34486f7e05916ad915e199f5f9753767b78eb80c9db1ff4a43b9b92c2d70"
+metafile = true
+
+[[files]]
+file = "mods/i18nupdatemod.pw.toml"
+hash = "f596d49b8d8a5ce74b39bfb9dd140175ae97b30e822c113cdc5c093926177426"
+metafile = true
+
+[[files]]
+file = "mods/iav.pw.toml"
+hash = "a47993df9404756d3288646fe1962249c4e56af133c27ef1e5e99aa99343c5ef"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-neoforge.pw.toml"
+hash = "8c56189a235a058e9dfd8a1f6ffa449b1cfcdb957f77f07750ee203057025b9a"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles.pw.toml"
+hash = "c11184d027f3ad102037f01ef77ca6bb9b2d3157123ab34144f8109c82bcdafe"
+metafile = true
+
+[[files]]
+file = "mods/justenoughcharacters.pw.toml"
+hash = "b8dcab399ea32412d32498089ede18df17bf68b067b3cc7fddb7570611639d8c"
+metafile = true
+
+[[files]]
+file = "mods/kaminari-motor-works.pw.toml"
+hash = "3b95b426736fd5aad6e1e94b9a82cb25c0713168c0b8cf7ef0e77d28e3d31a82"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "d921175a82cf60e7ebaa7f014f924b77a2f5ace44e81b309dc996c4c55b7455b"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8166a38e2d8165d4f6e7d7c5275d3f8dea5ad2d4e1e5506339aa928062933f71"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-gun-mod-unofficial.pw.toml"
+hash = "f8210adea7397f90299f7b467780564ed65fa48c03fc415efa3f1c7c08c57c30"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "2bcee75d08b33dd6506b7cd3f67ea9d0d2c1bf14e26728fa8e12ef19c895b165"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "708e72fdde02979987118bdfb9b2c65be916059598cca9935c050653a090e3bb"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a45bc70d623b15e2d71a1fe8bb123b4da3d2283f1dc571118e9bd5e28fb6b5b4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "7292700f04a96dd5c0452832ed8d39adc75c4bed7747525bc6e88b3155e58325"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "a6f983cad42efecf85b7471c837a84bf1dd1dbb38b941cd1b3314e092d390375"
+metafile = true
+
+[[files]]
+file = "mods/transport-simulator-official-vehicle-set.pw.toml"
+hash = "e29a62a480f74e24022d04185c8a74488fcc78569492af838db9ebb702ca9391"
+metafile = true
+
+[[files]]
+file = "mods/tweakerge.pw.toml"
+hash = "2fe1a59e86b595ad5b8d25a0a9f5661b33071683a6ea5e23db146c030963e67e"
+metafile = true
+
+[[files]]
+file = "mods/unu-civilian-pack.pw.toml"
+hash = "9ed72ebf431ba97200972254efadb2c714430561d87caed172bfde6c66160f37"
+metafile = true
+
+[[files]]
+file = "mods/unu-parts-pack.pw.toml"
+hash = "6a1092303815f2ff5432077ff8ecac8f1d8e56bb6043407087d7c1e8d16c901c"
+metafile = true
+
+[[files]]
+file = "mods/veb-aws.pw.toml"
+hash = "600b350cda30bd884346eea589213a24bf54a42671f5ba4b3ef3ff83c3e6aedb"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "bc6b6c847c51928cc2a716aca4c3e10bf300643554ee43a8476516adcf801f86"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "75f919474c56d48d70e8371067ee9bfaa47d2c06876937099108692e943cd404"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0f4c36a62455f7a78f36b8768f2fd980e558d9a18552c6ee00e9d090b51de341"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ceef63cdf36c1e23cc00a78aa9b81a13a34fc02cea9ccdf2ec35d0558cff72e5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Bayville Resource Pack v7.2.zip"
+hash = "4d6d22c910ed312b7d1e791ad3c89a027a4a85c6008cfd1c0bc542449de959c4"
+
+[[files]]
+file = "resourcepacks/BroterieCraft Textures for 1.20.zip"
+hash = "32ab9a0c2632f53bfb9bfba52caafd9649ccbadfd0f45a799167a5b1e1f70c36"
+
+[[files]]
+file = "resourcepacks/Greenfield.Texture.Pack.1.17.zip"
+hash = "ae056ba088ee65748b26de389829106f831ee9bda34d50236831e6c78724f387"
+
+[[files]]
+file = "resourcepacks/Weston-City-Textures-1.21.1.zip"
+hash = "c45df7d5b2a390ece24c7a37e891df67359abc1ecce335bfb5f090d99031bfa1"
+
+[[files]]
+file = "shaderpacks/BSL_v8.4.zip"
+hash = "f57821c6f0d744ca72b41d3ad9762452e53d5b0eb3a888c0636ad29b7d0d1548"
+
+[[files]]
+file = "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
+hash = "33dd4636cf1aadc6f326751008e5f871f01794078981f077c2f2ef881fdaa33f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
+hash = "20897248a5fe91b33bf7fd4b75959c30aa2003df195297979a410ee37d3bb62f"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
+hash = "55ae361a9819afa85587146e6a4053a1e7ca9c6746be21e3330d6b5ebaefd01e"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+hash = "61d133b24b6a92e46a3d7df791bb2ff163bbba10eed59df979b9bd727c24fbaf"
+
+[[files]]
+file = "shaderpacks/Derivative Main d24.4.14.zip"
+hash = "71d2ee4bca827efa0bd9419ce9c0f94d0f2fe3b882bedc2a565d6d2f612e0e95"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.1d.zip"
+hash = "79030cbf8be64733d8f79769f5bdd61555229996a147bcdae8d6979f41e9db6c"
+
+[[files]]
+file = "shaderpacks/MakeUp-UltraFast-9.1d.zip.txt"
+hash = "42c38164b2a73669a7a5512f8840d58beb806fd79a8895cb5f29b0fcee6ce361"
+
+[[files]]
+file = "shaderpacks/Sildur's Basic Shaders v2.2 Fancy.zip"
+hash = "9e79959ed9fd95264376b40e86aa67a2d194cb9b8d4243d96abbfaf5f0f83f6a"
+
+[[files]]
+file = "shaderpacks/Sildur's Enhanced Default v1.16 Fancy.zip"
+hash = "700a5d3c0b1c0414e856e111e1c1dfb330de4b8379f49702bb44d6886059ba75"
+
+[[files]]
+file = "shaderpacks/Sildur's Vibrant Shaders v1.51 Extreme-VL.zip"
+hash = "2c88fa2ad00e9006c4bc469fb3438376345b00fa31adad0d716a12a72cce182b"
+
+[[files]]
+file = "shaderpacks/Solas Shader V2.8c.zip"
+hash = "269e193d0f8a4a1759c9679bc9a51444acfdab051d1dbc2fb60d2c3f6ce87bdd"
+
+[[files]]
+file = "shaderpacks/miniature-shader-2.14.7.zip"
+hash = "99834215ac097d4c079dd0b820a8b65f7f7deb12d04bae2515bf91d16d76c2d8"
+
+[[files]]
+file = "shaderpacks/miniature-shader-2.14.7.zip.txt"
+hash = "fc99bf4232c8afa578bb6f424bad880b620228abd2f03b1809a418c32d835378"
+
+[[files]]
+file = "shaderpacks/photon_v1.1.zip"
+hash = "1228172bfb0ee49de3d2b6268390bac52c9a57dd0aa92c8903e57cf14583203a"
+
+[[files]]
+file = "shaderpacks/photon_v1.1.zip.txt"
+hash = "86a7a55ef2dd040a6235b01040e019dd64940e473dca22db57e3eb9361e7350a"
